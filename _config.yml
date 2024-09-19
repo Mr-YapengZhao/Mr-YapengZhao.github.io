@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Binggui Zhou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoctoral Researcher"
-  location         : "Imperial College London, London, UK"
+  bio              : "Postdoctoral Researcher at Imperial College London"
+  location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en"
