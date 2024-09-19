@@ -19,7 +19,7 @@ redirect_from:
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao SAR, China, in 2021 and 2024, respectively, at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and the Department of Electrical and Computer Engineering, and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Guanghua Yang (Jinan University, FIET, SMIEEE)](https://sisse.jnu.edu.cn/2019/0606/c12456a323953/page.psp). He is currently a Postdoctoral Researcher with the Department of Electrical and Electronic Engineering, Imperial College London, London, U.K., under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
 
-Dr. Zhou's research interests include machine learning, wireless communications, data mining, and smart healthcare. He has published more than 20 papers at the top journals and international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbgzhou%2Fbgzhou.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations.
+Dr. Zhou's research interests include machine learning, wireless communications, data mining, and smart healthcare. He has published more than 20 papers at the top journals and international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='images/https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbgzhou%2Fbgzhou.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations.
 
 
 # 🔥 News
@@ -108,7 +108,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 ### Smart Healthcare
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RBME</div><img src='FeaturedArticlePromotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RBME</div><img src='images/FeaturedArticlePromotion.png' alt="sym' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Natural Language Processing for Smart Healthcare](https://ieeexplore.ieee.org/abstract/document/9904944)
@@ -135,12 +135,12 @@ Accurate channel state information (CSI) is essential for downlink precoding in 
 
 The whole IEFSF structure:
 
-<img src="IEFSF_NN.png" width = "1200" alt="" align=center />
+<img src='images/IEFSF_NN.png' width = "1200" alt="" align=center />
 
 The KDDA method (left) and the AIGC-based data augmentation method (right):
 
 <center class="half">
-    <img src="KDDA.png" width = "480" alt="" align=center /><img src="EGAN.png" width = "402" alt="" align=center />
+    <img src='images/KDDA.png' width = "480" alt="" align=center /><img src='images/EGAN.png' width = "402" alt="" align=center />
 </center>
 
 (4) Kehui Li, **Binggui Zhou**, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in **Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring**, pp. 1-6, 2024.
@@ -149,7 +149,7 @@ This paper introduces a vision-aided multi-user sensing and communications proto
 
 The prototyping system consists of a base station with massive antennas and multiple single/multi-antenna mobile users. The prototyping system is scalable and flexible by building the baseband processing modules into software-defined radios. The BS has vision perceptron capability powered by a binocular camera. By leveraging deep learning based visual object detection and multiple objects tracking algorithm, the BS is capable of fast multi-user beam tracking. Below are some figures of the protopyting system. Details of the prototyping system can be found in our <a href="https://www.fst.um.edu.mo/personal/shaodanma/research/"><font color=Blue>lab pages</font></a>.
 
-<img src="VisionDemo_Diagram.png" width = "1200" alt="" align=center />
+<img src='images/VisionDemo_Diagram.png' width = "1200" alt="" align=center />
 
 (2) **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 10.4)** [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/document/10315065) [<font color=Blue>\[Preprint\]</font>](https://arxiv.org/abs/2303.00986) [<font color=Blue>\[Code\]</font>](https://github.com/bgzhou/DACEN)
 
@@ -158,13 +158,13 @@ To reap the promising benefits of massive MIMO systems, accurate CSI is required
 The proposed DACEN (left) and the parameter-instance transfer learning approach (right):
 
 <center class="half">
-    <img src="DualAttentionNetwork.png" width = "480" alt="" align=center /><img src="TransferLearningFramework.png" width = "401" alt="" align=center />
+    <img src='images/DualAttentionNetwork.png' width = "480" alt="" align=center /><img src='images/TransferLearningFramework.png' width = "401" alt="" align=center />
 </center>
 
 Some numerical results:
 
 <center class="half">
-    <img src="NMSE_26RB.png" width = "400" alt="" align=center /><img src="NMSE_6RB.png" width = "400" alt="" align=center />
+    <img src='images/NMSE_26RB.png' width = "400" alt="" align=center /><img src='images/NMSE_6RB.png' width = "400" alt="" align=center />
 </center>
 
 [3] Yunxuan Dong&dagger;, **Binggui Zhou**&dagger;, Guanghua Yang, Fen Hou, Zheng Hu, and Shaodan Ma, “A Novel Model for Tourism Demand Forecasting with Spatial–Temporal Feature Enhancement and Image-Driven Method,” **Neurocomputing**, vol. 556, p. 126663, Nov. 2023. **(JCR Q1, IF: 6)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S0925231223007865) [<font color=Blue>\[Preprint\]</font>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4133437)
@@ -255,7 +255,7 @@ Some numerical results:
 ## Research Highlights
 ### 1. Knowledge-and-Data Driven Intelligent Wireless Communications
 
-<img src="Knowledge-and-Data_Driven_Intelligent_Wireless_Communications.png" width = "1200" alt="" align=center />
+<img src='images/Knowledge-and-Data_Driven_Intelligent_Wireless_Communications.png' width = "1200" alt="" align=center />
 
 Currently, mobile communications have evolved into 5G/B5G and we are now anticipating what 6G will be like. According to [1], the usage scenarios of IMT-2030 (6G) include immersive communication, hyper reliable and low-latency communication, massive communication, ubiquitous connectivity, integrated sensing and communication, etc. These usage scenarios raise **high data rate requirements**, **hyper reliability requirements**, and **massive connection requirements** to current wireless communication systems. To meet these requirements, extreme/massive MIMO has been recognized as an essential technology to provide spatial degrees of freedom, diversity or multiplexing gain, and array gain, thereby improving the spectral and energy efficiencies of wireless communication systems.
 
@@ -275,7 +275,7 @@ To simultaneously improve spectral and energy efficiencies, reduce overhead and 
 
 Vision-aided multi-user sensing and communications prototyping system:
 
-<img src="VisionDemo_Diagram.png" width = "1200" alt="" align=center />
+<img src='images/VisionDemo_Diagram.png' width = "1200" alt="" align=center />
 
 Details of the prototyping system can be found in our [lab pages](https://www.fst.um.edu.mo/personal/shaodanma/research/) and the following publications.
 
@@ -287,7 +287,7 @@ Details of the prototyping system can be found in our [lab pages](https://www.fs
 
 Channel modeling is an important area of 6G pre-research. To cope with the increasingly complex wireless communication environment and make full use of data-driven/data-model-driven artificial intelligence algorithms for complex channel modeling, we propose a generative adversarial network (GAN) for channel modeling and constructing an extensive wireless channel dataset of high-quality samples using a small number of real channel samples. The proposed GAN is based on the multi-head self-attention mechanism and convolution operations. We decouple the channel generation problem into two parts: valid (meaningful) delayed **path position generation** and valid (meaningful) delayed **path generation**. Therefore, the generator contains two sub-networks. The path generation sub-network mainly exploits Transformer layers as the backbone, while the backbone of the path position generation sub-network is with a two-layer multi-layer perceptron structure. The discriminator exploits multiple convolutional downsampling modules to distinguish between generated samples and real samples.
 
-<img src="AICompetition_GAN.png" width = "1200" alt="" align=center />
+<img src='images/AICompetition_GAN.png' width = "1200" alt="" align=center />
 
 (2) Our recent solution to **CSI feedback with limited samples** won the **Winning Prize (ranking 9/1252 teams)**</font> of the **First 6G Intelligent Wireless Communication System Competition** held by the IMT-2030 (6G) Promotion Group and Guangdong OPPO Mobile Communications Corp., Ltd.
 
@@ -295,10 +295,10 @@ Deep learning based CSI feedback has received widespread attention from academia
 
 The dual-attention-based CSI feedback model (left) and the quantization ensembling framework (right):
 <center class="half">
-    <img src="6GAICompetition_CSIFeedbackModel.png" width = "460" alt="" align=center /><img src="6GAICompetition_QuantizationEnsembling.png" width = "520" alt="" align=center />
+    <img src='images/6GAICompetition_CSIFeedbackModel.png' width = "460" alt="" align=center /><img src='images/6GAICompetition_QuantizationEnsembling.png' width = "520" alt="" align=center />
 </center>
 
-<!-- <img src="6GAICompetition_CSIFeedbackModel.png" width = "1200" alt="" align=center /> -->
+<!-- <img src='images/6GAICompetition_CSIFeedbackModel.png' width = "1200" alt="" align=center /> -->
 
 
 
