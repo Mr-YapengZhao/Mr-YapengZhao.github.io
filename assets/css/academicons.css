@@ -146,7 +146,7 @@
   content: "\e840";
 }
 .ai-orcid-square:before {
-  content: "\e841";
+  content: "https://img.shields.io/badge/--white?style=social&logo=orcid";
 }
 .ai-osf:before {
   content: "\e842";

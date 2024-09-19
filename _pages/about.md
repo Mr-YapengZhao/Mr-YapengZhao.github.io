@@ -16,7 +16,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='bio'></span>
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao SAR, China, in 2021 and 2024, respectively, at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and the Department of Electrical and Computer Engineering, and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Guanghua Yang (Jinan University, FIET, SMIEEE)](https://sisse.jnu.edu.cn/2019/0606/c12456a323953/page.psp). He is currently a Postdoctoral Researcher with the Department of Electrical and Electronic Engineering, Imperial College London, London, U.K., under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
 
