@@ -147,7 +147,7 @@
 }
 .ai-orcid-square:before {
   content: url("https://img.shields.io/badge/--white?style=social&logo=orcid");
-  width: 50px;
+  width: 30px;
   height: auto;
 }
 .ai-osf:before {
