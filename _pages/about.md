@@ -24,23 +24,23 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 
 # 🔥 News
-**[2024-07-26]** ***<font color=Fuchsia>New publication</font>***: One paper titled <a href="https://ieeexplore.ieee.org/document/10620242"><font color=Black>*BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications*</font></a> has been accepted by ***IEEE Internet of Things Journal***.
+- **[2024-07-26]** ***<font color=Fuchsia>New publication</font>***: One paper titled <a href="https://ieeexplore.ieee.org/document/10620242"><font color=Black>BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications</font></a> has been accepted by ***IEEE Internet of Things Journal***.
 
-**[2024-07-11]** <font color=Fuchsia>***New publication***</font>: One paper titled <a href="https://ieeexplore.ieee.org/document/10627924"><font color=Black>*AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective*</font></a> has been accepted by ***IEEE Vehicular Technology Magazine***.
+- **[2024-07-11]** ***<font color=Fuchsia>New publication</font>***: One paper titled <a href="https://ieeexplore.ieee.org/document/10627924"><font color=Black>AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective</font></a> has been accepted by ***IEEE Vehicular Technology Magazine***.
 
-**[2024-07-11]** <font color=Red>***Recognition***</font>: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>*Natural Language Processing for Smart Healthcare*</font></a> has been listed as an 🏆 <font color=Red>***ESI Highly Cited Paper***</font>.
+- **[2024-07-11]** ***<font color=Red>Recognition</font>***: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>Natural Language Processing for Smart Healthcare</font></a> has been listed as an 🏆 ***<font color=Red>ESI Highly Cited Paper</font>***.
 
-**[2024-07-10]** Successfully defended my PhD thesis! And I will joint the Department of Electrical and Electronic Engineering, Imperial College, as a Postdoctoral Research Associate this Fall.
+- **[2024-07-10]** Successfully defended my PhD thesis! And I will joint the Department of Electrical and Electronic Engineering, Imperial College London, as a Postdoctoral Research Associate this Fall.
 
-**[2024-06-19]** <font color=Fuchsia>***New publication***</font>: One paper titled <a href="https://ieeexplore.ieee.org/document/10600118"><font color=Black>*A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems*</font></a> has been accepted by ***IEEE Transactions on Wireless Communications***.
+- **[2024-06-19]** ***<font color=Fuchsia>New publication</font>***: One paper titled <a href="https://ieeexplore.ieee.org/document/10600118"><font color=Black>A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems</font></a> has been accepted by ***IEEE Transactions on Wireless Communications***.
 
-**[2024-06-14]** <font color=Blue>***New preprint***</font>: <a href="https://arxiv.org/abs/2406.08887"><font color=Black>*Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios*</font></a>.
+- **[2024-06-14]** ***<font color=Blue>New preprint</font>***: <a href="https://arxiv.org/abs/2406.08887"><font color=Black>Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios</font></a>.
 
-**[2024-05-09]** <font color=Red>***Recognition***</font>: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>*Natural Language Processing for Smart Healthcare*</font></a> has been listed as an 🔥 <font color=Red>***ESI Hot Paper***</font>.
+- **[2024-05-09]** ***<font color=Red>Recognition</font>***: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>Natural Language Processing for Smart Healthcare</font></a> has been listed as an 🔥 ***<font color=Red>ESI Hot Paper</font>***.
 
-**[2024-04-02]** <font color=Blue>***New preprint***</font>: <a href="https://arxiv.org/abs/2404.00598"><font color=Black>*Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems*</font></a>.
+- **[2024-04-02]** ***<font color=Blue>New preprint</font>***: <a href="https://arxiv.org/abs/2404.00598"><font color=Black>Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems</font></a>.
 
-**[2024-02-08]** <font color=Red>***Recognition***</font>: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>*Natural Language Processing for Smart Healthcare*</font></a> has been listed as a <font color=Red>***Popular Article***</font> of ***IEEE Reviews in Biomedical Engineering*** **(IF 17.6)** since Feb. 2024.
+- **[2024-02-08]** ***<font color=Red>Recognition</font>***: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>Natural Language Processing for Smart Healthcare</font></a> has been listed as a ***<font color=Red>Popular Article</font>*** of ***IEEE Reviews in Biomedical Engineering*** **(IF 17.6)** since Feb. 2024.
 
 # 🏫 Professional Experience
 - *Sep. 2024 - present*, **Postdoctoral Researcher**, Department of Electrical and Electronic Engineering, **Imperial College London**
