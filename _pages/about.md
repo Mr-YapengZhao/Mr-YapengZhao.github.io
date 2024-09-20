@@ -117,11 +117,12 @@ Dr. Zhou's research interests include machine learning, wireless communications,
  
 [Preprint](https://arxiv.org/abs/2312.04062) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:3s1wT3WcHBgC'></span></strong>
 
-```Accurate channel state information (CSI) is essential for downlink precoding in frequency division duplexing (FDD) massive multiple-input multiple-output (MIMO) systems with orthogonal frequency-division multiplexing (OFDM). However, obtaining CSI through feedback from the user equipment (UE) becomes challenging with the increasing scale of antennas and subcarriers and leads to extremely high CSI feedback overhead. Deep learning-based methods have emerged for compressing CSI but these methods generally require substantial collected samples and thus pose practical challenges. Moreover, existing deep learning methods also suffer from dramatically growing feedback overhead owing to their focus on full-dimensional CSI feedback. To address these issues, we propose a low-overhead Incorporation-Extrapolation based Few-Shot CSI feedback Framework (IEFSF) for massive MIMO systems. An incorporation-extrapolation scheme for eigenvector-based CSI feedback is proposed to reduce the feedback overhead. Then, to alleviate the necessity of extensive collected samples and enable few-shot CSI feedback, we further propose a knowledge-driven data augmentation (KDDA) method and an artificial intelligence-generated content (AIGC) -based data augmentation method by exploiting the domain knowledge of wireless channels and by exploiting a novel generative model, respectively. Experimental results based on the DeepMIMO dataset demonstrate that the proposed IEFSF significantly reduces CSI feedback overhead by 64 times compared with existing methods while maintaining higher feedback accuracy using only several hundred collected samples.```
+- In this work, we propose the **Incorporation-Extrapolation based Few-Shot CSI feedback Framework (IEFSF)** for massive MIMO systems to enable low-overhead CSI feedback with reduced data collection cost. An incorporation-extrapolation scheme for eigenvector-based CSI feedback is proposed to reduce the feedback overhead. Then, to alleviate the necessity of extensive collected samples and enable few-shot CSI feedback, we further propose a **knowledge-driven data augmentation (KDDA) method** and an **artificial intelligence-generated content (AIGC) -based data augmentation method** by exploiting the domain knowledge of wireless channels and by exploiting a novel generative model, respectively.
+- Experimental results based on the DeepMIMO dataset demonstrate that the proposed IEFSF significantly reduces CSI feedback overhead by 64 times compared with existing methods while maintaining higher feedback accuracy using only several hundred collected samples.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/DACEN.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/HSTGANet.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots](https://ieeexplore.ieee.org/document/10315065)
@@ -130,16 +131,41 @@ Dr. Zhou's research interests include machine learning, wireless communications,
  
 [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:D03iK_w7-QYC'></span></strong>
 
-```To reap the promising benefits of massive MIMO systems, accurate CSI is required through channel estimation. However, due to the complicated wireless propagation environment and large-scale antenna arrays, precise channel estimation for massive MIMO systems is significantly challenging and costs an enormous training overhead. Considerable time-frequency resources are consumed to acquire sufficient accuracy of CSI, which thus severely degrades systems' spectral and energy efficiencies. In this paper, we propose a **dual-attention-based channel estimation network (DACEN)** to realize accurate channel estimation via low-density pilots, by jointly learning the spatial-temporal domain features of massive MIMO channels with the temporal attention module and the spatial attention module. To further improve the estimation accuracy, we propose a **parameter-instance transfer learning approach** to transfer the channel knowledge learned from the high-density pilots pre-acquired during the training dataset collection period. Experimental results reveal that the proposed DACEN-based method achieves better channel estimation performance than the existing methods under various pilot-density settings and signal-to-noise ratios. Additionally, with the proposed parameter-instance transfer learning approach, the DACEN-based method achieves additional performance gain, thereby further demonstrating the effectiveness and superiority of the proposed method.```
+- In this work, we propose the **dual-attention-based channel estimation network (DACEN)** to realize accurate channel estimation via low-density pilots, by jointly learning the spatial-temporal domain features of massive MIMO channels with the temporal attention module and the spatial attention module. To further improve the estimation accuracy, we propose a **parameter-instance transfer learning approach** to transfer the channel knowledge learned from the high-density pilots pre-acquired during the training dataset collection period.
+- Experimental results reveal that the proposed DACEN-based method achieves better channel estimation performance than the existing methods under various pilot-density settings and signal-to-noise ratios. Additionally, with the proposed parameter-instance transfer learning approach, the DACEN-based method achieves additional performance gain, thereby further demonstrating the effectiveness and superiority of the proposed method.
 </div>
 </div>
 
-<!-- ### Data Mining
-[3] Yunxuan Dong&dagger;, **Binggui Zhou**&dagger;, Guanghua Yang, Fen Hou, Zheng Hu, and Shaodan Ma, “A Novel Model for Tourism Demand Forecasting with Spatial–Temporal Feature Enhancement and Image-Driven Method,” **Neurocomputing**, vol. 556, p. 126663, Nov. 2023. **(JCR Q1, IF: 6)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S0925231223007865) [<font color=Blue>\[Preprint\]</font>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4133437)
+### Data Mining
 
-[2] **Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma, “A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting,” **Knowledge-Based Systems**, vol. 263, p. 110275, Mar. 2023. **(JCR Q1, IF: 8.8)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S0950705123000254)
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>KNOSYS</div><img src='images/DACEN.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
 
-[1] **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Interpretable Temporal Attention Network for COVID-19 Forecasting,” **Applied Soft Computing**, vol. 120, p. 108691, May 2022. **(JCR Q1, IF: 8.7)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S1568494622001545)  -->
+[A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting](https://www.sciencedirect.com/science/article/pii/S0950705123000254)
+
+**Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma
+ 
+<strong><span class='show_paper_citations' data='2RwBacMAAAAJ:TFP_iSt0sucC'></span></strong>
+
+- In this paper, we propose a graph-attention based spatial–temporal learning framework for tourism demand forecasting. A weight-dynamic multi-dimensional graph is organized to embed multiple explicit dynamic spatial connections and provide a node attribute sequence for learning implicit dynamic spatial connections. We further propose a heterogeneous spatial–temporal graph-attention network (called HSTGANet), which is effective in handling both explicit and implicit dynamic spatial connections, learning high-dimensional spatial–temporal features, and forecasting tourism demand.
+- Experimental results demonstrate the effectiveness of the proposed model over baseline models in forecasting the tourism demand for six regions of Wanshan Archipelago in Zhuhai, China, and indicate that the proposed spatial–temporal learning framework may provide useful insights for developing more effective models for other spatial–temporal forecasting problems.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>ASOC</div><img src='images/ITANet.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+[Interpretable Temporal Attention Network for COVID-19 Forecasting](https://www.sciencedirect.com/science/article/pii/S1568494622001545)
+
+**Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma
+ 
+<strong><span class='show_paper_citations' data='2RwBacMAAAAJ:TQgYirikUcIC'></span></strong>
+
+- In this work, we propose the **Interpretable Temporal Attention Network (ITANet)** for COVID-19 forecasting and inferring the importance of government interventions. The proposed model is with an encoder–decoder architecture and employs long short-term memory (LSTM) for temporal feature extraction and multi-head attention for long-term dependency caption. The model simultaneously takes historical information, a priori known future information, and pseudo future information into consideration, where the pseudo future information is learned with the **covariate forecasting network (CFN)** and **multi-task learning (MTL)**. In addition, we also propose the **degraded teacher forcing (DTF) method** to train the model efficiently. 
+- Compared with other models, the ITANet is more effective in the forecasting of COVID-19 new confirmed cases.
+- The importance of government interventions against COVID-19 is further inferred by the **Temporal Covariate Interpreter (TCI)** of the model.
+</div>
+</div>
 
 ### Smart Healthcare
 
@@ -154,7 +180,8 @@ Dr. Zhou's research interests include machine learning, wireless communications,
  
 [Preprint](https://arxiv.org/abs/2110.15803) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span></strong>
 
-```In smart healthcare, natural language processing (NLP) techniques are highly demanded to analyze and understand human language for various smart applications across various healthcare scenarios. In this work, we review existing studies that concern NLP for smart healthcare from the perspectives of technique and application. We first elaborate on different NLP approaches and the NLP pipeline for smart healthcare from the technical point of view. Then, in the context of smart healthcare applications employing NLP techniques, we introduce several representative smart healthcare scenarios. We further discuss two specific medical issues, i.e., the coronavirus disease 2019 (COVID-19) pandemic and mental health, in which NLP-driven smart healthcare plays an important role. Finally, we discuss the limitations of current works and identify the directions for future works.```
+- In this work, we review existing studies that concern NLP for smart healthcare from the perspectives of technique and application.
+- We first elaborate on different **NLP approaches** and the **NLP pipeline for smart healthcare** from the technical point of view. Then, in the context of smart healthcare applications employing NLP techniques, we introduce several **representative smart healthcare scenarios**. We further discuss two **specific medical issues**, i.e., the coronavirus disease 2019 (COVID-19) pandemic and mental health, in which NLP-driven smart healthcare plays an important role. Finally, we discuss the **limitations** of current works and identify the **directions for future works**.
 
 <!-- - FastSpeech is the first fully parallel end-to-end speech synthesis model.
 - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
