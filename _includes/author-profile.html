@@ -11,14 +11,12 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <img src="/images/ICL-Logo.png" />
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      <li><div><a href="https://www.imperial.ac.uk/"><img src="/images/ICL-Logo.png" /></a></div></li>
-      <li><div><a href="https://www.um.edu.mo/"><img src="/images/UM-Logo.png" /></a></div></li>
-      <li><div><a href="https://www.jnu.edu.cn/"><img src="/images/JNU-Logo.png" /></a></div></li>
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
