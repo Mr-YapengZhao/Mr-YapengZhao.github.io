@@ -105,6 +105,40 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 [**Representative Publications (by Topic)**](#representative-publications-by-topic) | [**List of Publications (by Topic)**](#list-of-publications-by-topic)
 ## Representative Publications (by Topic)
+### Wireless Communications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/IEFSF.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+[A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems](https://ieeexplore.ieee.org/document/10600118)
+
+**Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang
+ 
+[Preprint](https://arxiv.org/abs/2312.04062) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:3s1wT3WcHBgC'></span></strong>
+
+```Accurate channel state information (CSI) is essential for downlink precoding in frequency division duplexing (FDD) massive multiple-input multiple-output (MIMO) systems with orthogonal frequency-division multiplexing (OFDM). However, obtaining CSI through feedback from the user equipment (UE) becomes challenging with the increasing scale of antennas and subcarriers and leads to extremely high CSI feedback overhead. Deep learning-based methods have emerged for compressing CSI but these methods generally require substantial collected samples and thus pose practical challenges. Moreover, existing deep learning methods also suffer from dramatically growing feedback overhead owing to their focus on full-dimensional CSI feedback. To address these issues, we propose a low-overhead Incorporation-Extrapolation based Few-Shot CSI feedback Framework (IEFSF) for massive MIMO systems. An incorporation-extrapolation scheme for eigenvector-based CSI feedback is proposed to reduce the feedback overhead. Then, to alleviate the necessity of extensive collected samples and enable few-shot CSI feedback, we further propose a knowledge-driven data augmentation (KDDA) method and an artificial intelligence-generated content (AIGC) -based data augmentation method by exploiting the domain knowledge of wireless channels and by exploiting a novel generative model, respectively. Experimental results based on the DeepMIMO dataset demonstrate that the proposed IEFSF significantly reduces CSI feedback overhead by 64 times compared with existing methods while maintaining higher feedback accuracy using only several hundred collected samples.```
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/DACEN.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+[Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots](https://ieeexplore.ieee.org/document/10315065)
+
+**Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang
+ 
+[Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:D03iK_w7-QYC'></span></strong>
+
+```To reap the promising benefits of massive MIMO systems, accurate CSI is required through channel estimation. However, due to the complicated wireless propagation environment and large-scale antenna arrays, precise channel estimation for massive MIMO systems is significantly challenging and costs an enormous training overhead. Considerable time-frequency resources are consumed to acquire sufficient accuracy of CSI, which thus severely degrades systems' spectral and energy efficiencies. In this paper, we propose a **dual-attention-based channel estimation network (DACEN)** to realize accurate channel estimation via low-density pilots, by jointly learning the spatial-temporal domain features of massive MIMO channels with the temporal attention module and the spatial attention module. To further improve the estimation accuracy, we propose a **parameter-instance transfer learning approach** to transfer the channel knowledge learned from the high-density pilots pre-acquired during the training dataset collection period. Experimental results reveal that the proposed DACEN-based method achieves better channel estimation performance than the existing methods under various pilot-density settings and signal-to-noise ratios. Additionally, with the proposed parameter-instance transfer learning approach, the DACEN-based method achieves additional performance gain, thereby further demonstrating the effectiveness and superiority of the proposed method.```
+</div>
+</div>
+
+<!-- ### Data Mining
+[3] Yunxuan Dong&dagger;, **Binggui Zhou**&dagger;, Guanghua Yang, Fen Hou, Zheng Hu, and Shaodan Ma, “A Novel Model for Tourism Demand Forecasting with Spatial–Temporal Feature Enhancement and Image-Driven Method,” **Neurocomputing**, vol. 556, p. 126663, Nov. 2023. **(JCR Q1, IF: 6)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S0925231223007865) [<font color=Blue>\[Preprint\]</font>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4133437)
+
+[2] **Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma, “A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting,” **Knowledge-Based Systems**, vol. 263, p. 110275, Mar. 2023. **(JCR Q1, IF: 8.8)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S0950705123000254)
+
+[1] **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Interpretable Temporal Attention Network for COVID-19 Forecasting,” **Applied Soft Computing**, vol. 120, p. 108691, May 2022. **(JCR Q1, IF: 8.7)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S1568494622001545)  -->
 
 ### Smart Healthcare
 
@@ -119,8 +153,6 @@ Dr. Zhou's research interests include machine learning, wireless communications,
  
 [Preprint](https://arxiv.org/abs/2110.15803) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span></strong>
 
-
-
 ```In smart healthcare, natural language processing (NLP) techniques are highly demanded to analyze and understand human language for various smart applications across various healthcare scenarios. In this work, we review existing studies that concern NLP for smart healthcare from the perspectives of technique and application. We first elaborate on different NLP approaches and the NLP pipeline for smart healthcare from the technical point of view. Then, in the context of smart healthcare applications employing NLP techniques, we introduce several representative smart healthcare scenarios. We further discuss two specific medical issues, i.e., the coronavirus disease 2019 (COVID-19) pandemic and mental health, in which NLP-driven smart healthcare plays an important role. Finally, we discuss the limitations of current works and identify the directions for future works.```
 
 <!-- - FastSpeech is the first fully parallel end-to-end speech synthesis model.
@@ -128,52 +160,6 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420). -->
 </div>
 </div>
-
-(5) **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” IEEE Transactions on Wireless Communications, early access, pp. 1-16, Jul. 2024. [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/document/10600118) [<font color=Blue>\[Preprint\]</font>](https://arxiv.org/abs/2312.04062)
-
-Accurate channel state information (CSI) is essential for downlink precoding in frequency division duplexing (FDD) massive multiple-input multiple-output (MIMO) systems with orthogonal frequency-division multiplexing (OFDM). However, obtaining CSI through feedback from the user equipment (UE) becomes challenging with the increasing scale of antennas and subcarriers and leads to extremely high CSI feedback overhead. Deep learning-based methods have emerged for compressing CSI but these methods generally require substantial collected samples and thus pose practical challenges. Moreover, existing deep learning methods also suffer from dramatically growing feedback overhead owing to their focus on full-dimensional CSI feedback. To address these issues, we propose a low-overhead Incorporation-Extrapolation based Few-Shot CSI feedback Framework (IEFSF) for massive MIMO systems. An incorporation-extrapolation scheme for eigenvector-based CSI feedback is proposed to reduce the feedback overhead. Then, to alleviate the necessity of extensive collected samples and enable few-shot CSI feedback, we further propose a knowledge-driven data augmentation (KDDA) method and an artificial intelligence-generated content (AIGC) -based data augmentation method by exploiting the domain knowledge of wireless channels and by exploiting a novel generative model, respectively. Experimental results based on the DeepMIMO dataset demonstrate that the proposed IEFSF significantly reduces CSI feedback overhead by 64 times compared with existing methods while maintaining higher feedback accuracy using only several hundred collected samples.
-
-The whole IEFSF structure:
-
-<img src='images/IEFSF_NN.png' width = "1200" alt="" align=center />
-
-The KDDA method (left) and the AIGC-based data augmentation method (right):
-
-<center class="half">
-    <img src='images/KDDA.png' width = "480" alt="" align=center /><img src='images/EGAN.png' width = "402" alt="" align=center />
-</center>
-
-(4) Kehui Li, **Binggui Zhou**, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in **Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring**, pp. 1-6, 2024.
-
-This paper introduces a vision-aided multi-user sensing and communications prototyping system and some experimental results based on this protopyting system. This system was presented as a demo in IEEE/CIC ICCC 2023, Dalian, China.
-
-The prototyping system consists of a base station with massive antennas and multiple single/multi-antenna mobile users. The prototyping system is scalable and flexible by building the baseband processing modules into software-defined radios. The BS has vision perceptron capability powered by a binocular camera. By leveraging deep learning based visual object detection and multiple objects tracking algorithm, the BS is capable of fast multi-user beam tracking. Below are some figures of the protopyting system. Details of the prototyping system can be found in our <a href="https://www.fst.um.edu.mo/personal/shaodanma/research/"><font color=Blue>lab pages</font></a>.
-
-<img src='images/VisionDemo_Diagram.png' width = "1200" alt="" align=center />
-
-(2) **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 10.4)** [<font color=Blue>\[Paper\]</font>](https://ieeexplore.ieee.org/document/10315065) [<font color=Blue>\[Preprint\]</font>](https://arxiv.org/abs/2303.00986) [<font color=Blue>\[Code\]</font>](https://github.com/bgzhou/DACEN)
-
-To reap the promising benefits of massive MIMO systems, accurate CSI is required through channel estimation. However, due to the complicated wireless propagation environment and large-scale antenna arrays, precise channel estimation for massive MIMO systems is significantly challenging and costs an enormous training overhead. Considerable time-frequency resources are consumed to acquire sufficient accuracy of CSI, which thus severely degrades systems' spectral and energy efficiencies. In this paper, we propose a **dual-attention-based channel estimation network (DACEN)** to realize accurate channel estimation via low-density pilots, by jointly learning the spatial-temporal domain features of massive MIMO channels with the temporal attention module and the spatial attention module. To further improve the estimation accuracy, we propose a **parameter-instance transfer learning approach** to transfer the channel knowledge learned from the high-density pilots pre-acquired during the training dataset collection period. Experimental results reveal that the proposed DACEN-based method achieves better channel estimation performance than the existing methods under various pilot-density settings and signal-to-noise ratios. Additionally, with the proposed parameter-instance transfer learning approach, the DACEN-based method achieves additional performance gain, thereby further demonstrating the effectiveness and superiority of the proposed method. <a href="https://ieeexplore.ieee.org/document/10315065"><font color=Blue>Read More</font></a>
-
-The proposed DACEN (left) and the parameter-instance transfer learning approach (right):
-
-<center class="half">
-    <img src='images/DualAttentionNetwork.png' width = "480" alt="" align=center /><img src='images/TransferLearningFramework.png' width = "401" alt="" align=center />
-</center>
-
-Some numerical results:
-
-<center class="half">
-    <img src='images/NMSE_26RB.png' width = "400" alt="" align=center /><img src='images/NMSE_6RB.png' width = "400" alt="" align=center />
-</center>
-
-[3] Yunxuan Dong&dagger;, **Binggui Zhou**&dagger;, Guanghua Yang, Fen Hou, Zheng Hu, and Shaodan Ma, “A Novel Model for Tourism Demand Forecasting with Spatial–Temporal Feature Enhancement and Image-Driven Method,” **Neurocomputing**, vol. 556, p. 126663, Nov. 2023. **(JCR Q1, IF: 6)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S0925231223007865) [<font color=Blue>\[Preprint\]</font>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4133437)
-
-[2] **Binggui Zhou**, Yunxuan Dong, Guanghua Yang, Fen Hou, Zheng Hu, Suxiu Xu, and Shaodan Ma, “A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting,” **Knowledge-Based Systems**, vol. 263, p. 110275, Mar. 2023. **(JCR Q1, IF: 8.8)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S0950705123000254)
-
-[1] **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Interpretable Temporal Attention Network for COVID-19 Forecasting,” **Applied Soft Computing**, vol. 120, p. 108691, May 2022. **(JCR Q1, IF: 8.7)** [<font color=Blue>\[Paper\]</font>](https://www.sciencedirect.com/science/article/pii/S1568494622001545) 
-
-
 
 ## List of Publications (by Topic)
 
@@ -231,7 +217,7 @@ Some numerical results:
 
 ### Smart Healthcare
 
-**[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.6, ***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of IEEE Reviews in Biomedical Engineering.)** [Paper](https://ieeexplore.ieee.org/abstract/document/9904944) \| [Preprint](https://arxiv.org/abs/2110.15803)
+**[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.6, ESI Hot Paper, ESI Highly Cited Paper, and Popular Article & Featured Article of IEEE Reviews in Biomedical Engineering)** [Paper](https://ieeexplore.ieee.org/abstract/document/9904944) \| [Preprint](https://arxiv.org/abs/2110.15803)
 
 ### Miscellaneous
 
@@ -287,18 +273,15 @@ Details of the prototyping system can be found in our [lab pages](https://www.fs
 
 Channel modeling is an important area of 6G pre-research. To cope with the increasingly complex wireless communication environment and make full use of data-driven/data-model-driven artificial intelligence algorithms for complex channel modeling, we propose a generative adversarial network (GAN) for channel modeling and constructing an extensive wireless channel dataset of high-quality samples using a small number of real channel samples. The proposed GAN is based on the multi-head self-attention mechanism and convolution operations. We decouple the channel generation problem into two parts: valid (meaningful) delayed **path position generation** and valid (meaningful) delayed **path generation**. Therefore, the generator contains two sub-networks. The path generation sub-network mainly exploits Transformer layers as the backbone, while the backbone of the path position generation sub-network is with a two-layer multi-layer perceptron structure. The discriminator exploits multiple convolutional downsampling modules to distinguish between generated samples and real samples.
 
-<img src='images/AICompetition_GAN.png' width = "1200" alt="" align=center />
+<img src='images/AICompetition_ChannelModeling.png' width = "1200" alt="" align=center />
 
 (2) Our recent solution to **CSI feedback with limited samples** won the **Winning Prize (ranking 9/1252 teams)**</font> of the **First 6G Intelligent Wireless Communication System Competition** held by the IMT-2030 (6G) Promotion Group and Guangdong OPPO Mobile Communications Corp., Ltd.
 
-Deep learning based CSI feedback has received widespread attention from academia and industry in recent years. However, most of the existing deep learning based CSI feedback methods are purely data-driven. In addition to obtaining high-performance gains brought by data-driven, such methods also show poor generalization performance in different scenarios. Currently, to mitigate this issue, expensive data collection costs and long training time for different scenarios are inevitable, and thus poses further challenges for the implementation of such deep learning based CSI feedback methods. To address these challenges, we propose a CSI feedback method that uses only a small number of samples to obtain better generalization capabilities. Through **frequency domain data augmentation** and the advanced **dual-attention-based CSI feedback model**, the proposed CSI feedback method can achieve CSI feedback with good generalization ability in a very concise way. In addition, to mitigate quantization errors, we further propose a **quantization ensembling framework** which exploits several quantizers and dequantizers for ensembling. Specifically, constrained by 30-bit CSI feedback overhead and to balance the number of feedback bits, quantization error and the size of backbone networks, we use 27 bits for quantization and 3 bits as the quantizer index (which indicates that a total of 8 quantizers with different configurations can be utilized). Hybrid scalar quantization is considered, and each two quantizers share an Encoder backbone network to ensure that each Encoder backbone network has larger model scale and learning capabilities.
+Deep learning based CSI feedback has received widespread attention from academia and industry in recent years. However, most of the existing deep learning based CSI feedback methods are purely data-driven. In addition to obtaining high-performance gains brought by data-driven, such methods also show poor generalization performance in different scenarios. Currently, to mitigate this issue, expensive data collection costs and long training time for different scenarios are inevitable, and thus poses further challenges for the implementation of such deep learning based CSI feedback methods. To address these challenges, we propose a CSI feedback method that uses only a small number of samples to obtain better generalization capabilities. Through **frequency domain data augmentation** and the advanced **dual-attention-based CSI feedback model**, the proposed CSI feedback method can achieve CSI feedback with good generalization ability in a very concise way. In addition, to mitigate quantization errors, we further propose a **quantization ensemble framework** which exploits several quantizers and dequantizers for ensemble. Specifically, constrained by 30-bit CSI feedback overhead and to balance the number of feedback bits, quantization error and the size of backbone networks, we use 27 bits for quantization and 3 bits as the quantizer index (which indicates that a total of 8 quantizers with different configurations can be utilized). Hybrid scalar quantization is considered, and each two quantizers share an Encoder backbone network to ensure that each Encoder backbone network has larger model scale and learning capabilities.
 
-The dual-attention-based CSI feedback model (left) and the quantization ensembling framework (right):
-<center class="half">
-    <img src='images/6GAICompetition_CSIFeedbackModel.png' width = "460" alt="" align=center /><img src='images/6GAICompetition_QuantizationEnsembling.png' width = "520" alt="" align=center />
-</center>
+The dual-attention-based CSI feedback model (left) and the quantization ensemble framework (right):
 
-<!-- <img src='images/6GAICompetition_CSIFeedbackModel.png' width = "1200" alt="" align=center /> -->
+<img src='images/6GAICompetition_CSIFeedback.png' width = "1200" alt="" align=center />
 
 
 
