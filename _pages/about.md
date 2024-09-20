@@ -108,8 +108,8 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 ### Smart Healthcare
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RBME</div><img src='images/FeaturedArticlePromotion.png' alt="sym' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE RBME</div><img src='images/FeaturedArticlePromotion.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
 
 [Natural Language Processing for Smart Healthcare](https://ieeexplore.ieee.org/abstract/document/9904944)
 
@@ -117,7 +117,9 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 ***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of IEEE RBME
  
-[Preprint](https://arxiv.org/abs/2110.15803) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span></strong>
+[Preprint](https://arxiv.org/abs/2110.15803) <span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span>
+
+<!-- <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span></strong> -->
 
 
 
