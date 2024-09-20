@@ -101,10 +101,11 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 # 📝 Publications
 
-(&dagger; for Equal Contribution; * for Corresponding Authorship; **J** for Journal Publications; **C** for Conference Publications; **P** for Patent Grants/Applications.)
-
 [**Representative Publications (by Topic)**](#representative-publications-by-topic) | [**List of Publications (by Topic)**](#list-of-publications-by-topic)
 ## Representative Publications (by Topic)
+
+(&dagger; for Equal Contribution; * for Corresponding Authorship.)
+
 ### Wireless Communications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/IEFSF.png' alt='sym' width='100%'></div></div>
@@ -162,6 +163,8 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 </div>
 
 ## List of Publications (by Topic)
+
+(&dagger; for Equal Contribution; * for Corresponding Authorship; **J** for Journal Publications; **C** for Conference Publications; **P** for Patent Grants/Applications.)
 
 <!-- [Paper](https://ieeexplore.ieee.org/document/10627924) 【公式形式显示】 -->
 ### Wireless Communications
@@ -230,13 +233,13 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 [**Research Interests**](#research-interests) | [**Research Highlights**](#research-highlights) | [**Collaborators**](#collaborators)
 ## Research Interests
 
-[**Machine Learning**](#artificial-intelligence): Deep Learning, Generative Artificial Intelligence, Graph Machine Learning
+**Machine Learning**: Deep Learning, Generative Artificial Intelligence, Graph Machine Learning
 
-[**Wireless Communications**](#wireless-communications): Machine Learning for Signal Processing in Massive MIMO, XL-MIMO, and RIS-Aided MIMO
+**Wireless Communications**: Machine Learning for Signal Processing in Massive MIMO, XL-MIMO, and RIS-Aided MIMO
 
-[**Data Mining**](#data-mining): Multi-Domain Corelation Mining, Forecasting
+**Data Mining**: Multi-Domain Corelation Mining, Forecasting
 
-[**Smart Healthcare**](#smart-healthcare): Healthcare Informatics
+**Smart Healthcare**: Healthcare Informatics
 
 ## Research Highlights
 ### 1. Knowledge-and-Data Driven Intelligent Wireless Communications
@@ -271,7 +274,7 @@ Details of the prototyping system can be found in our [lab pages](https://www.fs
 
 (1) Check out <a href="https://mp.weixin.qq.com/s/iZAZn3NxvLZKTBuukFsbsQ"><font color=Blue>Our Solution</font></a> to the **First 6G AI Competition** held by the Guangdong OPPO Mobile Communications Corp., Ltd, which won the **Second Prize** and ranked **2/727 teams**.
 
-Channel modeling is an important area of 6G pre-research. To cope with the increasingly complex wireless communication environment and make full use of data-driven/data-model-driven artificial intelligence algorithms for complex channel modeling, we propose a generative adversarial network (GAN) for channel modeling and constructing an extensive wireless channel dataset of high-quality samples using a small number of real channel samples. The proposed GAN is based on the multi-head self-attention mechanism and convolution operations. We decouple the channel generation problem into two parts: valid (meaningful) delayed **path position generation** and valid (meaningful) delayed **path generation**. Therefore, the generator contains two sub-networks. The path generation sub-network mainly exploits Transformer layers as the backbone, while the backbone of the path position generation sub-network is with a two-layer multi-layer perceptron structure. The discriminator exploits multiple convolutional downsampling modules to distinguish between generated samples and real samples.
+Channel modeling is an important area of 6G pre-research. To cope with the increasingly complex wireless communication environment and make full use of data-driven/knowledge-and-data driven algorithms for complex channel modeling, we propose a generative adversarial network (GAN) for channel modeling and constructing an extensive wireless channel dataset of high-quality samples using a small number of real channel samples. The proposed GAN is based on the multi-head self-attention mechanism and convolution operations. We decouple the channel generation problem into two parts: valid (meaningful) delayed **path position generation** and valid (meaningful) delayed **path generation**. Therefore, the generator contains two sub-networks. The path generation sub-network mainly exploits Transformer layers as the backbone, while the backbone of the path position generation sub-network is with a two-layer multi-layer perceptron structure. The discriminator exploits multiple convolutional downsampling modules to distinguish between generated samples and real samples.
 
 <img src='images/AICompetition_ChannelModeling.png' width = "1200" alt="" align=center />
 
@@ -296,3 +299,5 @@ The dual-attention-based CSI feedback model (left) and the quantization ensemble
 I collaborate closely with [Prof. Feifei Gao (Professor, Tsinghua University)](https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en), [Prof. Xi Yang (Professor, East China Normal University)](https://faculty.ecnu.edu.cn/_s15/yx2/main.psp), [Prof. Zheng Shi, (Associate Professor, Jinan University)](https://scholar.google.com/citations?user=_DQ7HfQAAAAJ&hl=en), [Prof. Qing Xue, (Assistant Professor, Chongqing University of Posts and Telecommunications)](https://www.researchgate.net/profile/Qing-Xue-5), and [Dr. Jintao Wang, (University of Macau)](https://jintaoww.github.io/) on AI empowered wireless communications, and with [Prof. Yunxuan Dong (Assistant Professor, Guangxi University)](https://scholar.google.com/citations?user=dYcYJfUAAAAJ&hl=en&authuser=1) on data mining.
 
 Feel free to [drop me an email](mailto:binggui.zhou@imperial.ac.uk) if you would like to collaborate with me.
+
+<script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/unitychan.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":true},"log":false});</script></body>
