@@ -7,19 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='bio'></span>
 
 Binggui Zhou (周炳贵) received his B.Eng. degree in Electrical Engineering from Jinan University, Zhuhai, China, in 2018, and his M.Sc. degree and Ph.D. degree in Electrical and Computer Engineering from the University of Macau, Macao SAR, China, in 2021 and 2024, respectively, at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and the Department of Electrical and Computer Engineering, and under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Guanghua Yang (Jinan University, FIET, SMIEEE)](https://sisse.jnu.edu.cn/2019/0606/c12456a323953/page.psp). He is currently a Postdoctoral Researcher with the Department of Electrical and Electronic Engineering, Imperial College London, London, U.K., under the guidance of [Prof. Bruno Clerckx (FIEEE, FIET, IEEE ComSoc Distinguished Lecturer)](https://profiles.imperial.ac.uk/b.clerckx). He is also a Visiting Researcher with the School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai, China.
 
-Dr. Zhou's research interests include machine learning, wireless communications, data mining, and smart healthcare. He has published more than 20 papers at the top journals and international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='images/https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbgzhou%2Fbgzhou.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations.
+Dr. Zhou's research interests include machine learning, wireless communications, data mining, and smart healthcare. He has published more than 20 papers at the top journals and international conferences with total <a href='https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbgzhou%2Fbgzhou.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations.
 
 
 # 🔥 News
@@ -117,7 +109,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 ***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of IEEE RBME
  
-[Preprint](https://arxiv.org/abs/2110.15803) <span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span>
+[Preprint](https://arxiv.org/abs/2110.15803) \| <span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span>
 
 <!-- <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span></strong> -->
 
@@ -190,17 +182,17 @@ Some numerical results:
 
 **[J7]** Fuchao He, Zheng Shi, **Binggui Zhou**, Guanghua Yang, Xiaofan Li, Xinrong Ye, and Shaodan Ma, “BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications,” accepted by **IEEE Internet of Things Journal**, Jul. 2024. **(JCR Q1, IF: 8.2)** [Paper](https://ieeexplore.ieee.org/document/10620242)
 
-**[J6]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, Jul. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) | [Preprint](https://arxiv.org/abs/2309.10575)
+**[J6]** Qing Xue, Jiajia Guo, **Binggui Zhou**, Yongjun Xu, Zhidu Li, and Shaodan Ma, “AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective,” accepted by **IEEE Vehicular Technology Magazine**, Jul. 2024. **(JCR Q1, IF: 5.8)** [Paper](https://ieeexplore.ieee.org/document/10627924) \| [Preprint](https://arxiv.org/abs/2309.10575)
 
-**[J5]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, early access, pp. 1-16, Jul. 2024.  **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10600118) | [Preprint](https://arxiv.org/abs/2312.04062)
+**[J5]** **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems,” **IEEE Transactions on Wireless Communications**, early access, pp. 1-16, Jul. 2024.  **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10600118) \| [Preprint](https://arxiv.org/abs/2312.04062)
 
-**[J4]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10315065) | [Preprint](https://arxiv.org/abs/2303.00986) | [Code](https://github.com/bgzhou/DACEN)
+**[J4]** **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang, “Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots,” **IEEE Transactions on Wireless Communications**, vol. 23, no. 6, pp. 6061-6076, Jun. 2024. **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10315065) \| [Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN)
 
 **[J3]** Xi Yang\*, Fuqiang Zhu, **Binggui Zhou**\*, Ting Liu, and Shaodan Ma, “Gridless Hybrid-Field Channel Estimation for Extra-Large Aperture Array Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 13, no. 2, pp. 496-500, Feb. 2024. **(JCR Q1, IF: 6.3)** [Paper](https://ieeexplore.ieee.org/document/10319723)
 
 **[J2]** Xianda Wu, Xi Yang, Shaodan Ma, **Binggui Zhou**, and Guanghua Yang, “Hybrid Channel Estimation for UPA-Assisted Millimeter-Wave Massive MIMO IoT Systems,” **IEEE Internet of Things Journal**, vol. 9, no. 4, pp. 2829-2842, Feb. 2022. **(JCR Q1, IF: 10.6)** [Paper](https://ieeexplore.ieee.org/abstract/document/9475482) 
 
-**[J1]** Xiaohong Chen, Changxing Deng, **Binggui Zhou**, Huan Zhang, Shaodan Ma, and Guanghua Yang, “High-Accuracy CSI Feedback with Super-Resolution Network for Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 11, no. 1, pp. 141-145, Jan. 2022. **(JCR Q1, IF: 6.3)** [Paper](https://ieeexplore.ieee.org/abstract/document/9585309) | [Code](https://github.com/MoliaChen/SRNet)
+**[J1]** Xiaohong Chen, Changxing Deng, **Binggui Zhou**, Huan Zhang, Shaodan Ma, and Guanghua Yang, “High-Accuracy CSI Feedback with Super-Resolution Network for Massive MIMO Systems,” **IEEE Wireless Communications Letters**, vol. 11, no. 1, pp. 141-145, Jan. 2022. **(JCR Q1, IF: 6.3)** [Paper](https://ieeexplore.ieee.org/abstract/document/9585309) \| [Code](https://github.com/MoliaChen/SRNet)
 
 **[C2]** Kehui Li, **Binggui Zhou**, Jiajia Guo, Xi Yang, Qing Xue, Feifei Gao, and Shaodan Ma, “Vision-aided Multi-user Beam Tracking for mmWave Massive MIMO System: Prototyping and Experimental Results,” in **Proceedings of IEEE Vehicular Technology Conference: VTC2024-Spring**, pp. 1-6, 2024.
 
@@ -233,7 +225,7 @@ Some numerical results:
 
 ### Smart Healthcare
 
-**[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.6, ***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of IEEE Reviews in Biomedical Engineering.)** [Paper](https://ieeexplore.ieee.org/abstract/document/9904944) | [Preprint](https://arxiv.org/abs/2110.15803)
+**[J1]** **Binggui Zhou**, Guanghua Yang, Zheng Shi, and Shaodan Ma, “Natural Language Processing for Smart Healthcare,” **IEEE Reviews in Biomedical Engineering**, vol. 17, pp. 4-18, Jan. 2024. **(JCR Q1, IF: 17.6, ***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of IEEE Reviews in Biomedical Engineering.)** [Paper](https://ieeexplore.ieee.org/abstract/document/9904944) \| [Preprint](https://arxiv.org/abs/2110.15803)
 
 ### Miscellaneous
 
