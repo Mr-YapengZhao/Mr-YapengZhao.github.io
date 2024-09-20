@@ -147,8 +147,8 @@ Dr. Zhou's research interests include machine learning, wireless communications,
  
 <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:TFP_iSt0sucC'></span></strong>
 
-- In this paper, we propose a graph-attention based spatial–temporal learning framework for tourism demand forecasting. A weight-dynamic multi-dimensional graph is organized to embed multiple explicit dynamic spatial connections and provide a node attribute sequence for learning implicit dynamic spatial connections. We further propose a heterogeneous spatial–temporal graph-attention network (called HSTGANet), which is effective in handling both explicit and implicit dynamic spatial connections, learning high-dimensional spatial–temporal features, and forecasting tourism demand.
-- Experimental results demonstrate the effectiveness of the proposed model over baseline models in forecasting the tourism demand for six regions of Wanshan Archipelago in Zhuhai, China, and indicate that the proposed spatial–temporal learning framework may provide useful insights for developing more effective models for other spatial–temporal forecasting problems.
+- In this paper, we propose a graph-attention based spatial–temporal learning framework for tourism demand forecasting. A **weight-dynamic multi-dimensional graph** is organized to embed multiple explicit dynamic spatial connections and provide a node attribute sequence for learning implicit dynamic spatial connections. We further propose a **heterogeneous spatial–temporal graph-attention network (HSTGANet)**, which is effective in handling both explicit and implicit dynamic spatial connections, learning high-dimensional spatial–temporal features, and forecasting tourism demand.
+- Experimental results demonstrate the **effectiveness of the proposed model** over baseline models in forecasting the tourism demand for six regions of Wanshan Archipelago in Zhuhai, China, and indicate that the proposed spatial–temporal learning framework may provide **useful insights for developing more effective models** for other spatial–temporal forecasting problems.
 </div>
 </div>
 
