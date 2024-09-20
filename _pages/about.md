@@ -115,30 +115,30 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 **Binggui Zhou**, Xi Yang, Jintao Wang, Shaodan Ma, Feifei Gao, and Guanghua Yang
  
-[Preprint](https://arxiv.org/abs/2312.04062) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:3s1wT3WcHBgC'></span></strong>
+[Preprint](https://arxiv.org/abs/2312.04062) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:3s1wT3WcHBgC'></span></strong>
 
 - In this work, we propose the **Incorporation-Extrapolation based Few-Shot CSI feedback Framework (IEFSF)** for massive MIMO systems to enable low-overhead CSI feedback with reduced data collection cost. An incorporation-extrapolation scheme for eigenvector-based CSI feedback is proposed to reduce the feedback overhead. Then, to alleviate the necessity of extensive collected samples and enable few-shot CSI feedback, we further propose a **knowledge-driven data augmentation (KDDA) method** and an **artificial intelligence-generated content (AIGC) -based data augmentation method** by exploiting the domain knowledge of wireless channels and by exploiting a novel generative model, respectively.
-- Experimental results based on the DeepMIMO dataset demonstrate that the proposed IEFSF significantly reduces CSI feedback overhead by 64 times compared with existing methods while maintaining higher feedback accuracy using only several hundred collected samples.
+- Experimental results based on the DeepMIMO dataset demonstrate that the proposed IEFSF significantly reduces CSI feedback overhead by **64 times** compared with existing methods while maintaining higher feedback accuracy using **only several hundred collected samples**.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/HSTGANet.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TWC</div><img src='images/DACEN.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [Pay Less But Get More: A Dual-Attention-based Channel Estimation Network for Massive MIMO Systems with Low-Density Pilots](https://ieeexplore.ieee.org/document/10315065)
 
 **Binggui Zhou**, Xi Yang, Shaodan Ma, Feifei Gao, and Guanghua Yang
  
-[Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:D03iK_w7-QYC'></span></strong>
+[Preprint](https://arxiv.org/abs/2303.00986) \| [Code](https://github.com/bgzhou/DACEN) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:D03iK_w7-QYC'></span></strong>
 
 - In this work, we propose the **dual-attention-based channel estimation network (DACEN)** to realize accurate channel estimation via low-density pilots, by jointly learning the spatial-temporal domain features of massive MIMO channels with the temporal attention module and the spatial attention module. To further improve the estimation accuracy, we propose a **parameter-instance transfer learning approach** to transfer the channel knowledge learned from the high-density pilots pre-acquired during the training dataset collection period.
-- Experimental results reveal that the proposed DACEN-based method achieves better channel estimation performance than the existing methods under various pilot-density settings and signal-to-noise ratios. Additionally, with the proposed parameter-instance transfer learning approach, the DACEN-based method achieves additional performance gain, thereby further demonstrating the effectiveness and superiority of the proposed method.
+- Experimental results reveal that the proposed DACEN-based method can reduce up to **92% of pilot overhead** by reducing the pilot density **from 26/52 to 2/52** than traditional channel estimation methods. Additionally, with the proposed parameter-instance transfer learning approach, the DACEN-based method achieves **additional performance gain**, thereby further demonstrating the effectiveness and superiority of the proposed method.
 </div>
 </div>
 
 ### Data Mining
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>KNOSYS</div><img src='images/DACEN.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>KNOSYS</div><img src='images/HSTGANet.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 [A Graph-Attention Based Spatial-Temporal Learning Framework for Tourism Demand Forecasting](https://www.sciencedirect.com/science/article/pii/S0950705123000254)
@@ -178,7 +178,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 ***<font color=Red>ESI Hot Paper</font>***, ***<font color=Red>ESI Highly Cited Paper</font>***, and ***<font color=Red>Popular Article</font>*** & ***<font color=Red>Featured Article</font>*** of IEEE RBME
  
-[Preprint](https://arxiv.org/abs/2110.15803) <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span></strong>
+[Preprint](https://arxiv.org/abs/2110.15803) \| <strong><span class='show_paper_citations' data='2RwBacMAAAAJ:cFHS6HbyZ2cC'></span></strong>
 
 - In this work, we review existing studies that concern NLP for smart healthcare from the perspectives of technique and application.
 - We first elaborate on different **NLP approaches** and the **NLP pipeline for smart healthcare** from the technical point of view. Then, in the context of smart healthcare applications employing NLP techniques, we introduce several **representative smart healthcare scenarios**. We further discuss two **specific medical issues**, i.e., the coronavirus disease 2019 (COVID-19) pandemic and mental health, in which NLP-driven smart healthcare plays an important role. Finally, we discuss the **limitations** of current works and identify the **directions for future works**.
