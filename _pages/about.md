@@ -41,21 +41,21 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 - 2024-02-08 **<font color=Red>Recognition</font>**: Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9904944"><font color=Black>Natural Language Processing for Smart Healthcare</font></a> has been listed as a ***<font color=Red>Popular Article</font>*** of ***IEEE Reviews in Biomedical Engineering*** **(IF 17.6)** since Feb. 2024.
 
-# 🏫 Professional Experience
+# 💼 Professional Experience
 - Sep. 2024 - present, **Postdoctoral Researcher**, Department of Electrical and Electronic Engineering, **Imperial College London**
 
 - Aug. 2024 - present, **Visiting Researcher**, School of Intelligent Systems Science and Engineering, **Jinan University**
 
 - Jul. 2019 - Jul. 2024, **Research Assistant**, School of Intelligent Systems Science and Engineering, **Jinan University**
 
-# 📖 Academic Qualifications
+# 🎓 Academic Qualifications
 - Aug. 2021 - Jul. 2024, **Doctor of Philosophy in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
 
 - Aug. 2018 - Jun. 2021, **Master of Science in Electrical and Computer Engineering**, State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and Department of Electrical and Computer Engineering, **University of Macau**
 
 - Sep. 2014 - Jun. 2018, **Bachelor of Engineering in Electrical Engineering**, School of Electrical and Information Engineering, **Jinan University**
 
-# 📜 Academic Services
+# 🌏 Academic Services
 
 **Conference TPC Member**
 - IEEE Vehicular Technology Conference: VTC2024-Spring
@@ -86,7 +86,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 - Member of the University of Macau (Member Unit) Research Team within the Wireless Technology Group of the IMT-2030 (6G) Promotion Group founded by the Ministry of Industry and Information Technology (MIIT) of China
 
-# 🎖 Recognition and Awards
+# 🏆 Recognition and Awards
 - May 2023, Winning Prize of the First 6G Intelligent Wireless Communication System Competition (Ranking 9/1252), as the Captain
 - Apr. 2022, Second Prize of the First 6G AI Competition (Ranking 2/727), as the Captain
 - May 2018, Second Prize of the ASC Student Supercomputer Challenge, as the Captain
@@ -94,10 +94,9 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 - Mar. 2016, National Encouragement Scholarship
 - Mar. 2015, National Encouragement Scholarship
 
-# 💬 Invited Talks
+# 🔉 Invited Talks
 - Aug. 2024, "Knowledge-and-Data Driven CSI Estimation and Feedback for Massive MIMO Systems", Guangxi University
 - Jul. 2024, "Knowledge-and-Data Driven CSI Estimation and Feedback for Massive MIMO Systems", South China Normal University
-
 
 # 📝 Publications
 
@@ -255,7 +254,7 @@ Dr. Zhou's research interests include machine learning, wireless communications,
 
 **[C1]** **Binggui Zhou**, Guanghua Yang, and Shaodan Ma, “Product-oriented Product Service System for Large-scale Vision Inspection,” in **Procedia CIRP**, vol. 83, pp. 675-679, 2019.
 
-# 💻 Research
+# 🔎 Research
 
 [**Research Interests**](#research-interests) | [**Research Highlights**](#research-highlights) | [**Collaborators**](#collaborators)
 ## Research Interests
