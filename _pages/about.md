@@ -25,6 +25,26 @@ His current research interests include intelligent reflecting surface (IRS), ove
 
 
 # 🔥 News
+- 2024-09-23: 🎉🎉 Hello World!
+
+# 📝 Publications 
+
+[**Representative Publications (by Topic)**](#representative-publications-by-topic) | [**List of Publications (by Topic)**](#list-of-publications-by-topic)
+## Representative Publications (by Topic)
+
+(&dagger; for Equal Contribution; * for Corresponding Authorship.)
+
+
+### Over-the-air Computation (AirComp)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TCOM</div><img src='images/paper/fig_comp_when_comm.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+Z. Wang, **Y. Zhao**\&dagger, Y. Zhou, Y. Shi, C. Jiang and K. B. Letaief, "[Over-the-Air Computation for 6G: Foundations, Technologies, and Applications](https://ieeexplore.ieee.org/abstract/document/10538293)," in IEEE Internet of Things Journal, vol. 11, no. 14, pp. 24634-24658, Jul. 2024.
+
+
+
+# 🔥 News
 - 2024-07-26 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10620242"><font color=Black>BLER Analysis and Optimal Power Allocation of HARQ-IR for Mission-Critical IoT Communications</font></a> has been accepted by ***IEEE Internet of Things Journal***.
 
 - 2024-07-11 **<font color=Fuchsia>New publication</font>**: One paper titled <a href="https://ieeexplore.ieee.org/document/10627924"><font color=Black>AI/ML for Beam Management in 5G-Advanced: A Standardization Perspective</font></a> has been accepted by ***IEEE Vehicular Technology Magazine***.
