@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Binggui Zhou"
+title                    : "Yapeng Zhao"
 description              : ""
-repository               : "bgzhou/bgzhou.github.io"
+repository               : "Yapeng-Zhao/Yapeng-Zhao.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Binggui Zhou"
+  name             : "Yapeng Zhao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoc@ICL"
-  location         : "London, UK"
+  bio              : "PhD, University of Macau"
+  location         : "Macao SAR, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2RwBacMAAAAJ&hl=en"
-  email            : "binggui.zhou@imperial.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Binggui-Zhou"
+  googlescholar    : "https://scholar.google.com/citations?user=vBmgzKYAAAAJ"
+  email            : "zhaoyp1210@outlook.com"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bgzhou"
+  github           : "Yapeng-Zhao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "binggui-zhou-107488154"
+  linkedin         : ""
   dblp             :
   orcid            :
   pinterest        :
