@@ -27,6 +27,26 @@ His current research interests include intelligent reflecting surface (IRS), ove
 # 🔥 News
 - 2024-09-23: 🎉🎉 Hello World!
 
+# 🔎 Research
+
+## 🔥 It has been visioned for years and gradually reached a consensus that the upcoming sixth-generation (6G) network will be a multi-functional network which aims to integrate communication, sensing, computing, and intelligence. Such integration, acting as the powerful engine for realizing the intelligent world of the future, will play a crucial role in providing efficient services for computation-intensive, communication-intensive, and delay-sensitive applications, e.g., smart factories and autonomous driving.
+
+## Research Interests
+
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'></div><img src='images/paper/fig_comp_when_comm.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+  
+**Integrated communication and computation (ICC)**: over-the-air computation (AirComp), federated learning (FL), mobile edge computing (MEC).
+
+The main purpose of AirComp is to merge the concurrently transmitted data to compute a class of so-called nomographic functions, thus realize one-shot data aggregation. AirComp seamlessly integrates the communication and computation procedures through the superposition property of multiple-access channels, which yields a revolutionary multiple-access paradigm shift from “compute-after-communicate” to “compute-when-communicate”.
+
+
+
+**Integrated sensing and communications (ISAC)**: 
+
+**Integrated Sensing, Communication, and Computation (ISCC)**: 
+
+
 # 📝 Publications 
 
 [**Representative Publications (by Topic)**](#representative-publications-by-topic) | [**List of Publications (by Topic)**](#list-of-publications-by-topic)
@@ -40,6 +60,6 @@ His current research interests include intelligent reflecting surface (IRS), ove
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE TCOM</div><img src='images/paper/fig_comp_when_comm.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
-Z. Wang, **Y. Zhao**&dagger, Y. Zhou, Y. Shi, C. Jiang and K. B. Letaief, "[Over-the-Air Computation for 6G: Foundations, Technologies, and Applications](https://ieeexplore.ieee.org/abstract/document/10538293)," in IEEE Internet of Things Journal, vol. 11, no. 14, pp. 24634-24658, Jul. 2024.
+Z. Wang, **Y. Zhao**&dagger;, Y. Zhou, Y. Shi, C. Jiang and K. B. Letaief, "[Over-the-Air Computation for 6G: Foundations, Technologies, and Applications](https://ieeexplore.ieee.org/abstract/document/10538293)," in IEEE Internet of Things Journal, vol. 11, no. 14, pp. 24634-24658, Jul. 2024.
 
 
