@@ -33,16 +33,45 @@ His current research interests include intelligent reflecting surface (IRS), ove
 
 ## Research Interests
 
-</div>
-</div>
+<div class="begin-examples"></div>
 **(1) Integrated communication and computation (ICC)**: over-the-air computation (AirComp), federated learning (FL), mobile edge computing (MEC).
-
 The main purpose of AirComp is to merge the concurrently transmitted data to compute a class of so-called nomographic functions, thus realize one-shot data aggregation. AirComp seamlessly integrates the communication and computation procedures through the superposition property of multiple-access channels, which yields a revolutionary multiple-access paradigm shift from “compute-after-communicate” to “compute-when-communicate”.
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'></div><img src='images/paper/fig_comp_when_comm.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
+<div class="end-examples"></div>
+
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Latest Tweets</b></td>
+        <td><b>daily.dev</b></td>
+     </tr>
+     <tr>
+       <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
+        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
+     </tr>
+    </table>
+    </div>
+
+
+    
 
 **(2) Integrated sensing and communications (ISAC)**: 
 
