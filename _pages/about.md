@@ -29,22 +29,24 @@ His current research interests include intelligent reflecting surface (IRS), ove
 
 # 🔎 Research
 
-## 🔥 It has been visioned for years and gradually reached a consensus that the upcoming sixth-generation (6G) network will be a multi-functional network which aims to integrate communication, sensing, computing, and intelligence. Such integration, acting as the powerful engine for realizing the intelligent world of the future, will play a crucial role in providing efficient services for computation-intensive, communication-intensive, and delay-sensitive applications, e.g., smart factories and autonomous driving.
+## 🔥 It has been visioned for years and gradually reached a consensus that the upcoming sixth-generation (6G) network will be a multi-functional network which aims to integrate communication, sensing, computing, and intelligence. Such integration can act as the powerful engine for realizing the intelligent world of the future.
 
 ## Research Interests
 
 <div class='paper-box'><div class='paper-box-image'><div><div class='badge'></div><img src='images/paper/fig_comp_when_comm.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
   
-**Integrated communication and computation (ICC)**: over-the-air computation (AirComp), federated learning (FL), mobile edge computing (MEC).
+**(1) Integrated communication and computation (ICC)**: over-the-air computation (AirComp), federated learning (FL), mobile edge computing (MEC).
 
 The main purpose of AirComp is to merge the concurrently transmitted data to compute a class of so-called nomographic functions, thus realize one-shot data aggregation. AirComp seamlessly integrates the communication and computation procedures through the superposition property of multiple-access channels, which yields a revolutionary multiple-access paradigm shift from “compute-after-communicate” to “compute-when-communicate”.
 
+</div>
+</div>
 
 
-**Integrated sensing and communications (ISAC)**: 
+**(2) Integrated sensing and communications (ISAC)**: 
 
-**Integrated Sensing, Communication, and Computation (ISCC)**: 
+**(3) Integrated Sensing, Communication, and Computation (ISCC)**: 
 
 
 # 📝 Publications 
