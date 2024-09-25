@@ -33,15 +33,15 @@ His current research interests include intelligent reflecting surface (IRS), ove
 
 ## Research Interests
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'></div><img src='images/paper/fig_comp_when_comm.png' alt='sym' width='100%'></div></div>
-<div class='paper-box-text' markdown='1'>
   
 **(1) Integrated communication and computation (ICC)**: over-the-air computation (AirComp), federated learning (FL), mobile edge computing (MEC).
 
 The main purpose of AirComp is to merge the concurrently transmitted data to compute a class of so-called nomographic functions, thus realize one-shot data aggregation. AirComp seamlessly integrates the communication and computation procedures through the superposition property of multiple-access channels, which yields a revolutionary multiple-access paradigm shift from “compute-after-communicate” to “compute-when-communicate”.
+</div>
+</div>
 
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'></div><img src='images/paper/fig_comp_when_comm.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
 
 
 **(2) Integrated sensing and communications (ISAC)**: 
